@@ -79,6 +79,7 @@ main {
   line-height: 1.5rem;
 }
 .bottom-links {
+  align-items: center;
   font-weight: bold;
   padding-top: 2rem;
 }
@@ -87,7 +88,6 @@ aside {
   right: 10rem;
   top: 2rem;
   width: 20%;
-  overflow: auto;
 }
 article {
   position: static;
