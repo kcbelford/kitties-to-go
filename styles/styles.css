@@ -73,20 +73,21 @@ h1 {
   padding-top: 2rem;
 }
 main {
-position: relative;
-margin-bottom: 6rem;
-padding: 2rem 12rem 0rem 12rem;
-line-height: 1.5rem;
+  position: relative;
+  margin-bottom: 6rem;
+  padding: 2rem 12rem 0rem 12rem;
+  line-height: 1.5rem;
 }
 .bottom-links {
   font-weight: bold;
   padding-top: 2rem;
 }
 aside {
-position: absolute;
-right: 10rem;
-top: 2rem;
-width: 20%;
+  position: absolute;
+  right: 10rem;
+  top: 2rem;
+  width: 20%;
+  overflow: auto;
 }
 article {
   position: static;
